@@ -1,0 +1,15 @@
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\bin\Release\net6.0\CourseNoteSorter.exe
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\bin\Release\net6.0\CourseNoteSorter.deps.json
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\bin\Release\net6.0\CourseNoteSorter.runtimeconfig.json
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\bin\Release\net6.0\CourseNoteSorter.dll
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\bin\Release\net6.0\CourseNoteSorter.pdb
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.csproj.AssemblyReference.cache
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.AssemblyInfoInputs.cache
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.AssemblyInfo.cs
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.csproj.CoreCompileInputs.cache
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.dll
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\refint\CourseNoteSorter.dll
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.pdb
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\CourseNoteSorter.genruntimeconfig.cache
+C:\Users\hacks\Desktop\Projekt\CourseNoteSorter\obj\Release\net6.0\ref\CourseNoteSorter.dll

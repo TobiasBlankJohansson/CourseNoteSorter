@@ -1,0 +1,5 @@
+C:\Users\hacks\Desktop\CourseNoteSorter.exe
+C:\Users\hacks\Desktop\CourseNoteSorter.dll
+C:\Users\hacks\Desktop\CourseNoteSorter.deps.json
+C:\Users\hacks\Desktop\CourseNoteSorter.runtimeconfig.json
+C:\Users\hacks\Desktop\CourseNoteSorter.pdb

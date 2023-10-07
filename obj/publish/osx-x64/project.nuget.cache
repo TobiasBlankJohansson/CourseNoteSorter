@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hu23JswiJybLgSrU1LxTj5fGAS8SK50C0JC+MwL/3188YsEU4PUxZ7HJZ5ogBEbS8e4LzOy6SRFMc1YDrLmd2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hacks\\Desktop\\Projekt\\CourseNoteSorter\\CourseNoteSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hacks\\.nuget\\packages\\microsoft.netcore.app.runtime.osx-x64\\6.0.11\\microsoft.netcore.app.runtime.osx-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\hacks\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.osx-x64\\6.0.11\\microsoft.aspnetcore.app.runtime.osx-x64.6.0.11.nupkg.sha512",
+    "C:\\Users\\hacks\\.nuget\\packages\\microsoft.netcore.app.host.osx-x64\\6.0.11\\microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
