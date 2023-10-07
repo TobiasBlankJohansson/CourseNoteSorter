@@ -1,4 +1,4 @@
-﻿using CourseNoteSorter.Abstrect;
+﻿using CourseNoteSorter.Abstract;
 using CourseNoteSorter.Commands;
 using CourseNoteSorter.Managers;
 using CourseNoteSorter.Course;

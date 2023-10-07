@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CourseNoteSorter.Abstrect
+namespace CourseNoteSorter.Abstract
 {
     internal interface ILoadable
     {

@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CourseNoteSorter.Abstrect
+namespace CourseNoteSorter.Abstract
 {
-    internal interface ICommand
+    internal interface IState
     {
-        void Execute();
+        ICommand GetCommand();
+        void Render();
     }
 }
