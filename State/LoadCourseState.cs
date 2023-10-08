@@ -1,6 +1,7 @@
 ﻿using CourseNoteSorter.Abstract;
 using CourseNoteSorter.Commands;
 using CourseNoteSorter.Managers;
+using CourseNoteSorter.Statics;
 using CourseNoteSorter.Course;
 using System;
 using System.Collections.Generic;
@@ -25,7 +26,7 @@ namespace CourseNoteSorter.State
         }
         public ICommand GetCommand()
         {
-            var command = Console.ReadLine();
+            var command = UserInput.GetString();
             for (int i = 1; i < _index; i++)
             {
                 if (command == i.ToString())
@@ -46,7 +47,7 @@ namespace CourseNoteSorter.State
             _fileName.Clear();
 
             Console.Clear();
-            Console.WriteLine("Chose course to load");
+            Console.WriteLine("Choose course to load");
             Console.WriteLine("------------------------------------");
 
             foreach (var item in new DirectoryInfo("Course").GetFiles())

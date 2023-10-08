@@ -25,7 +25,7 @@ namespace CourseNoteSorter.Commands
             {
                 Console.Clear();
                 Console.WriteLine("------------------------------------");
-                Console.Write("Folder path >");
+                Console.Write("The folder path that you want to save your notes\n>");
                 var filePath = UserInput.GetString();
 
                 if (Directory.Exists(filePath))

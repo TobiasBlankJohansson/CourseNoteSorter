@@ -1,6 +1,7 @@
 ﻿using CourseNoteSorter.Abstract;
 using CourseNoteSorter.Managers;
 using CourseNoteSorter.Course;
+using CourseNoteSorter.Statics;
 
 namespace CourseNoteSorter.Commands
 {
@@ -20,15 +21,15 @@ namespace CourseNoteSorter.Commands
             Console.WriteLine("------------------------------------");
             Console.WriteLine("Name of course");
             Console.Write(">");
-            var courseName = Console.ReadLine();
+            var courseName = UserInput.GetString();
             Console.WriteLine("------------------------------------");
             Console.WriteLine("Description of course");
             Console.Write(">");
-            var courseDescription = Console.ReadLine();
+            var courseDescription = UserInput.GetString();
             Console.WriteLine("------------------------------------");
             Console.WriteLine("Owner of course");
             Console.Write(">");
-            var courseOwner = Console.ReadLine();
+            var courseOwner = UserInput.GetString();
             Console.WriteLine("------------------------------------");
 
             _Course.Name = courseName;
