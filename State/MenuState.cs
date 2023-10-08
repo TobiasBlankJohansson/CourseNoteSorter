@@ -35,7 +35,7 @@ namespace CourseNoteSorter.State
             }
             if (command == "4")
             {
-
+                return new HelpCommand();
             }
             return new InvalidCommand();
         }

@@ -47,7 +47,7 @@ namespace CourseNoteSorter.State
             _fileName.Clear();
 
             Console.Clear();
-            Console.WriteLine("Chose course to load");
+            Console.WriteLine("Choose course to load");
             Console.WriteLine("------------------------------------");
 
             foreach (var item in new DirectoryInfo("Course").GetFiles())
