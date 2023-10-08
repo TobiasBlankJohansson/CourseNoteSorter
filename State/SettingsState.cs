@@ -1,6 +1,7 @@
 ﻿using CourseNoteSorter.Abstract;
 using CourseNoteSorter.Commands;
 using CourseNoteSorter.Managers;
+using CourseNoteSorter.Statics;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -21,7 +22,7 @@ namespace CourseNoteSorter.State
         }
         public ICommand GetCommand()
         {
-            var command = Console.ReadLine();
+            var command = UserInput.GetString();
             
             if (command == "1")
             {
